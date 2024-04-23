@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/canaria3406/hoyolab-auto-sign?style=flat-square">
-    <img src="https://img.shields.io/github/stars/canaria3406/hoyolab-auto-sign?style=flat-square">
+    <img src="https://img.shields.io/github/license/NatsumeAoii/hoyolab-auto-sign?style=flat-square">
+    <img src="https://img.shields.io/github/stars/NatsumeAoii/hoyolab-auto-sign?style=flat-square">
     <br><a href="/README_zh-tw.md">繁體中文</a>　<b>English</b>　<a href="/README_ru-ru.md">Русский</a>
 </p>
 
@@ -20,7 +20,7 @@ Supports Genshin Impact, Honkai Impact 3rd, and Honkai: Star Rail. Support multi
 
 ## Setup
 1. Go to [Google Apps Script](https://script.google.com/home/start) and create a new project with your custom name.
-2. Select the editor and paste the code( [Discord version](https://github.com/canaria3406/hoyolab-auto-sign/blob/main/src/main-discord.gs) / [Telegram version](https://github.com/canaria3406/hoyolab-auto-sign/blob/main/src/main-telegram.gs) ). Refer to the instructions below to configure the config file and save it.
+2. Select the editor and paste the code( [Discord version](https://github.com/NatsumeAoii/Hoyolab-AutoSign/blob/main/src/main-discord.gs) / [Telegram version](https://github.com/NatsumeAoii/Hoyolab-AutoSign/blob/main/src/main-telegram.gs) ). Refer to the instructions below to configure the config file and save it.
 3. Select "main" and click the "Run" button at the top.  
    Grant the necessary permissions and confirm that the configuration is correct (Execution started > completed).
 4. Click the trigger button on the left side and add a new trigger.  
@@ -162,7 +162,7 @@ const discord_notify = true
 const myDiscordID = "240000800000300040"
 const discordWebhook = "https://discord.com/api/webhooks/10xxxxxxxxxxxxxxx60/6aXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXnB"
 ```
-![image](https://github.com/canaria3406/hoyolab-auto-sign/blob/main/pic/E02.png)
+![image](https://github.com/NatsumeAoii/Hoyolab-AutoSign/blob/main/pic/E02.png)
 
 </details>
 
@@ -188,7 +188,7 @@ const telegram_notify = true
 const myTelegramID = "1XXXXXXX0"
 const telegramBotToken = "6XXXXXXXXX:AAAAAAAAAAXXXXXXXXXX8888888888Peko"
 ```
-![image](https://github.com/canaria3406/hoyolab-auto-sign/blob/main/pic/E03.png)
+![image](https://github.com/NatsumeAoii/Hoyolab-AutoSign/blob/main/pic/E03.png)
 
 </details>
 
